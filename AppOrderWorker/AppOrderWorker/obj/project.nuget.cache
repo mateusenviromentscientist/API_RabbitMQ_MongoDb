@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "BHky2/egmObF71y/cFyY/enuYxBTKWLXGdJaP9P/0dxS2U9eveUBJapdNeCpSw+VKKP9QaHx7VCU/fPC4aayMQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mateus_santos\\source\\repos\\AppOrderWorker\\AppOrderWorker\\AppOrderWorker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mateus_santos\\.nuget\\packages\\rabbitmq.client\\6.2.1\\rabbitmq.client.6.2.1.nupkg.sha512",
+    "C:\\Users\\mateus_santos\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\mateus_santos\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
