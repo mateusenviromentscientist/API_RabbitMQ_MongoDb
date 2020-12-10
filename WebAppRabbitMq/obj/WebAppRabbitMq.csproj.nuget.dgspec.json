@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mateus_santos\\source\\repos\\WebAppRabbitMq\\WebAppRabbitMq\\WebAppRabbitMq.csproj": {}
+    "C:\\dev\\WebAppRabbitMq\\WebAppRabbitMq\\WebAppRabbitMq.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mateus_santos\\source\\repos\\WebAppRabbitMq\\WebAppRabbitMq\\WebAppRabbitMq.csproj": {
+    "C:\\dev\\WebAppRabbitMq\\WebAppRabbitMq\\WebAppRabbitMq.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mateus_santos\\source\\repos\\WebAppRabbitMq\\WebAppRabbitMq\\WebAppRabbitMq.csproj",
+        "projectUniqueName": "C:\\dev\\WebAppRabbitMq\\WebAppRabbitMq\\WebAppRabbitMq.csproj",
         "projectName": "WebAppRabbitMq",
-        "projectPath": "C:\\Users\\mateus_santos\\source\\repos\\WebAppRabbitMq\\WebAppRabbitMq\\WebAppRabbitMq.csproj",
+        "projectPath": "C:\\dev\\WebAppRabbitMq\\WebAppRabbitMq\\WebAppRabbitMq.csproj",
         "packagesPath": "C:\\Users\\mateus_santos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mateus_santos\\source\\repos\\WebAppRabbitMq\\WebAppRabbitMq\\obj\\",
+        "outputPath": "C:\\dev\\WebAppRabbitMq\\WebAppRabbitMq\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mateus_santos\\AppData\\Roaming\\NuGet\\NuGet.Config",

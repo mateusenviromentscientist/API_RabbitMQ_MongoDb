@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mateus_santos\\source\\repos\\AppOrderWorker\\AppOrderWorker\\AppOrderWorker.csproj": {}
+    "C:\\dev\\WebAppRabbitMq\\AppOrderWorker\\AppOrderWorker\\AppOrderWorker.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mateus_santos\\source\\repos\\AppOrderWorker\\AppOrderWorker\\AppOrderWorker.csproj": {
+    "C:\\dev\\WebAppRabbitMq\\AppOrderWorker\\AppOrderWorker\\AppOrderWorker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mateus_santos\\source\\repos\\AppOrderWorker\\AppOrderWorker\\AppOrderWorker.csproj",
+        "projectUniqueName": "C:\\dev\\WebAppRabbitMq\\AppOrderWorker\\AppOrderWorker\\AppOrderWorker.csproj",
         "projectName": "AppOrderWorker",
-        "projectPath": "C:\\Users\\mateus_santos\\source\\repos\\AppOrderWorker\\AppOrderWorker\\AppOrderWorker.csproj",
+        "projectPath": "C:\\dev\\WebAppRabbitMq\\AppOrderWorker\\AppOrderWorker\\AppOrderWorker.csproj",
         "packagesPath": "C:\\Users\\mateus_santos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mateus_santos\\source\\repos\\AppOrderWorker\\AppOrderWorker\\obj\\",
+        "outputPath": "C:\\dev\\WebAppRabbitMq\\AppOrderWorker\\AppOrderWorker\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mateus_santos\\AppData\\Roaming\\NuGet\\NuGet.Config",
